@@ -1,0 +1,21 @@
+.aboutContainer{
+    padding: 0 40px 40px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Poppins Medium', sans-serif;
+    color: #A6A6A6;
+    font-size: 71px;
+    margin: 20px 0;
+}
+p {
+    line-height: 25px;
+    font-family: 'DM Sans', sans-serif;
+    color: #000000;
+    font-size: 16px;
+}
+
+hr{
+    width: 800px;
+}
