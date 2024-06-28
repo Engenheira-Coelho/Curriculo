@@ -1,0 +1,30 @@
+.notFoundPage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.notFoundPage > img{
+    width: 100%;
+}
+
+.notFoundPage .text{
+    justify-self: start;
+}
+.notFoundPage .text h1{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color:  #EB3254;
+    font-size: 115px;
+    margin: 0;
+}
+
+.notFoundPage .text p{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    color:  #EB3254;
+    font-size: 50px;
+    line-height: 3rem;
+    margin: 0;
+}
