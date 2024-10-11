@@ -9,12 +9,6 @@ function App() {
   return (
     <div className="App">
       <About />
-      <Button
-        description="Botão"
-        icon={<PiDownloadSimpleLight />}
-        href={'#'}
-      />
-      <NotFoundPage/>
     </div>
   );
 }
