@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import imgNotFound from "../../../src/images/not_found.png"
-import styles from './not-found-page.module.css'
+import styles from './notFound.module.css'
 
 export default class NotFoundPage extends Component {
     render() {
