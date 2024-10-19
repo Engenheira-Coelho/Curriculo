@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display+SC');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+Link {
+    text-decoration: none;
+    color: inherit;
+    padding: 15px;
+}
+
+header {
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+nav {
+    display: flex;
+}
+
+    
